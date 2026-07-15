@@ -152,7 +152,7 @@
 					},
 					"ifFalseActivities": [
 						{
-							"name": "DeleteEmotyFIle",
+							"name": "DeleteEmptyFIle",
 							"type": "Delete",
 							"dependsOn": [],
 							"policy": {
